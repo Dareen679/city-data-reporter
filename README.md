@@ -72,4 +72,4 @@ The program also reads the CSV file and displays the number of saved cities alon
 
 ## Screencast
 
-Screencast video: ADD VIDEO LINK HERE
+Screencast video: https://www.loom.com/share/0c7426698b2e49e9856d820b16e97030
