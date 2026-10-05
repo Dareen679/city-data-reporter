@@ -44,3 +44,32 @@ Install the `requests` library by running:
 python3 -m pip install requests
 export OPENWEATHER_API_KEY="YOUR_API_KEY_HERE"
 ```
+## Running the Program
+
+Run the program from the terminal with:
+
+    python3 reporter.py
+
+The program will ask you to enter a city name.
+
+Example:
+
+    Enter a city name: Minneapolis
+
+The program will display the current weather information and save it to `city_data.csv`.
+
+## CSV Output
+
+The CSV file contains these columns:
+
+- City
+- Country
+- Temperature (C)
+- Humidity (%)
+- Description
+
+The program also reads the CSV file and displays the number of saved cities along with each city's temperature.
+
+## Screencast
+
+Screencast video: ADD VIDEO LINK HERE
